@@ -1,5 +1,18 @@
 # IRCTC Landing Page Redesign ✨
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: VANI KOTHARI
+
+*INTERN ID*: CT08WT259
+
+*DOMAIN*: UI/UX DESIGNING
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
 Redesigned as part of **Internship Task-1 for CodTech**, this project focuses on enhancing both the **usability and aesthetics** of the existing IRCTC landing page.
 
 ---
